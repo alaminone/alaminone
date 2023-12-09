@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Watch the video](https://streamable.com/db0kf2)](https://streamable.com/db0kf2)
+[![[Watch the video](https://streamable.com/db0kf2))](https://streamable.com/db0kf2)](https://streamable.com/db0kf2)
 
 
 <h1 align="center">Hi 👋, I'm Alamin</h1>
