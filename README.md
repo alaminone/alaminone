@@ -4,7 +4,7 @@
 
 [![Watch the video](https://streamable.com/db0kf2)](https://streamable.com/db0kf2)
 
-
+![Video Preview]([link_to_your_video_preview.gif](https://streamable.com/db0kf2))
 
 <h1 align="center">Hi 👋, I'm Alamin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
