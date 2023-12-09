@@ -8,9 +8,9 @@
 https://github.com/alaminone/alaminone/assets/139010054/649916e8-164b-4a04-a24d-27e477556f8a
 
 
-](https://streamable.com/db0kf2)](https://streamable.com/db0kf2)
+]
 
-![Video Preview]([link_to_your_video_preview.gif](https://streamable.com/db0kf2))
+
 
 <h1 align="center">Hi 👋, I'm Alamin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
