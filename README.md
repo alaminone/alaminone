@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img align="center" src="https://streamable.com/db0kf2" alt="alaminone" />
+[![Watch the video](https://streamable.com/db0kf2)](https://streamable.com/db0kf2)
+
 
 <h1 align="center">Hi 👋, I'm Alamin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
