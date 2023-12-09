@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img align="center" src="https://www.canva.com/design/DAF2d0MjaVw/gbnL9ypN8afOEWwY6Kck3w/watch?utm_content=DAF2d0MjaVw&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="alaminone" /></p>
+<img align="center" src="https://www.canva.com/design/DAF2d0MjaVw/gbnL9ypN8afOEWwY6Kck3w/watch?utm_content=DAF2d0MjaVw&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="alaminone" />
 
 <h1 align="center">Hi 👋, I'm Alamin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
