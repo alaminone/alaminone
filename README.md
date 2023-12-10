@@ -15,7 +15,7 @@ https://github.com/alaminone/alaminone/assets/139010054/649916e8-164b-4a04-a24d-
 <h1 align="center">Hi 👋, I'm Alamin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaminone" alt="alaminone" /></a> </p>
+
 
 - 💬 Ask me about **react ,js,tailwindcss,**
 
