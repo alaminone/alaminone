@@ -23,7 +23,7 @@ https://github.com/alaminone/alaminone/assets/139010054/649916e8-164b-4a04-a24d-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alamin sijun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alamin sijun" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/alamin-sijun-9783a52a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alamin sijun" height="30" width="40" /></a>
 <a href="https://fb.com/alamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alamin" height="30" width="40" /></a>
 </p>
 
