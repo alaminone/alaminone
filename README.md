@@ -97,6 +97,6 @@
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-[  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaminone&bg_color=0f172a&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true" alt="Alamin's GitHub Activity Graph"/>
-](https://github-readme-activity-graph.vercel.app/graph?username=alaminone&bg_color=1e1b4b&color=8b5cf6&line=c084fc&point=fef08a&area=true&hide_border=true
-)</p>
+https://github-readme-activity-graph.vercel.app/graph?username=alaminone&bg_color=000000&color=00ffff&line=00ffee&point=ffffff&area=true&hide_border=true
+
+))</p>
