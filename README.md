@@ -96,4 +96,4 @@
 ---
 
 ### 📈 GitHub Activity Graph
-[![Alamin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alaminone&bg_color=000000&color=00ffff&line=00ffee&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alamin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alaminone&bg_color=fef6e4&color=ff7b54&line=ffab76&point=ff6363&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
