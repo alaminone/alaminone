@@ -1,6 +1,6 @@
 <!-- 
-  FINAL VERSION: This design uses a pure Markdown & Shields.io banner.
-  The GitHub stats card is now set to refresh more frequently.
+  FINAL VERSION: Top Languages card URL is now ready for excluding a specific repository
+  to get a more accurate language breakdown.
 -->
 
 <!-- 1. Markdown-based Banner (Guaranteed to work) -->
@@ -98,7 +98,7 @@
 <h2 align="center">📊 My GitHub Statistics 📊</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alaminone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminone&layout=compact&theme=tokyonight&hide_border=true&hide=html,scss,css" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminone&layout=compact&theme=tokyonight&hide_border=true&hide=html,scss,css&exclude_repo=YOUR_REPO_NAME" alt="Top Languages" />
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminone&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
