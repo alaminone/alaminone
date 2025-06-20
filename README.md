@@ -1,6 +1,6 @@
 <!-- 
   FINAL VERSION: This design uses a pure Markdown & Shields.io banner.
-  It requires no image uploads and is 100% reliable.
+  The GitHub stats card is now set to refresh more frequently.
 -->
 
 <!-- 1. Markdown-based Banner (Guaranteed to work) -->
@@ -97,7 +97,7 @@
 <!-- 4. GitHub Stats -->
 <h2 align="center">📊 My GitHub Statistics 📊</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alaminone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alaminone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminone&layout=compact&theme=tokyonight&hide_border=true&hide=html,scss,css" alt="Top Languages" />
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminone&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
