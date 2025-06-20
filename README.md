@@ -1,9 +1,11 @@
+<!-- ✅ GitHub Profile README: Clean and Professional Design -->
+
+<!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Md+Ibna+Alamin+Sijan+%F0%9F%91%8B;Full-Stack+Developer;Java+%7C+Spring+%7C+Angular+%7C+React;Always+Learning+%26+Building." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Md+Ibna+Alamin+Sijan+%F0%9F%91%8B;Full-Stack+Developer;Java+%7C+Spring+%7C+Angular+%7C+React;Always+Learning+%26+Building." alt="Typing SVG" />
 </div>
 
+<!-- Profile Views & Followers -->
 <div align="center">
   <a href="https://github.com/alaminone">
     <img src="https://komarev.com/ghpvc/?username=alaminone&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
@@ -15,20 +17,21 @@
 
 ---
 
+<!-- About Me & Tech Stack Section -->
 <table>
   <tr>
     <td width="65%" valign="top">
       <h3>👨‍💻 About Me</h3>
-      <p><em>I'm a passionate <strong>Full-Stack Developer</strong> from Bangladesh 🇧🇩, dedicated to building robust and scalable web applications. My expertise lies in crafting seamless user experiences with modern front-end frameworks and architecting powerful back-end systems with Java and Spring Boot. I thrive in collaborative environments and am always eager to take on new challenges.</em></p>
+      <p><em>I'm a passionate <strong>Full-Stack Developer</strong> from Bangladesh 🇧🇩, dedicated to building robust and scalable web applications.</em></p>
       <ul>
-        <li>🧠 Currently learning: <strong>Advanced DevOps Practices</strong>, <strong>Microservices Communication Patterns</strong>, and <strong>System Design</strong>.</li>
-        <li>🔭 Exploring: <strong>Clean Architecture</strong>, <strong>Event-Driven Systems</strong>, and <strong>Cloud-Native Technologies</strong>.</li>
-        <li>💬 Ask me about: <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Angular</strong>, <strong>REST API Design</strong>, or anything tech-related!</li>
-        <li>📫 How to reach me: <strong><a href="mailto:ibnaalamin00@gmail.com">ibnaalamin00@gmail.com</a></strong></li>
-        <li>🧳 Open to freelance, remote, and full-time collaboration!</li>
+        <li>🧠 Currently learning: <strong>Advanced DevOps</strong>, <strong>Microservices</strong>, <strong>System Design</strong></li>
+        <li>🔭 Exploring: <strong>Clean Architecture</strong>, <strong>Event-Driven Systems</strong>, <strong>Cloud-Native Tech</strong></li>
+        <li>💬 Ask me about: <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Angular</strong>, <strong>REST API Design</strong></li>
+        <li>📫 Reach me at: <strong><a href="mailto:ibnaalamin00@gmail.com">ibnaalamin00@gmail.com</a></strong></li>
+        <li>🧳 Open to freelance, remote, and full-time roles</li>
       </ul>
-      
-      
+
+      <h3>🔗 Connect with Me</h3>
       <p>
         <a href="https://linkedin.com/in/alamin-sijun-9783a52a4" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -41,8 +44,9 @@
         </a>
       </p>
     </td>
+
     <td width="35%" valign="top">
-      <h3>🛠️ My Tech Stack</h3>
+      <h3>🛠️ Tech Stack</h3>
       <details>
         <summary><strong>🚀 Backend</strong></summary>
         <p>
@@ -89,37 +93,28 @@
 
 ---
 
+<!-- GitHub Stats Section -->
 <div align="center">
-  <h3>📊 My GitHub Stats</h3>
+  <h3>📊 GitHub Stats</h3>
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=alaminone&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="alaminone's GitHub stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminone&layout=compact&locale=en&theme=tokyonight&hide_border=true&hide=html,scss,css" alt="alaminone's Top Languages" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=alaminone&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminone&layout=compact&theme=tokyonight&hide_border=true&hide=html,scss,css" />
   </p>
-  <p>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminone&theme=tokyonight&hide_border=true" alt="alaminone's GitHub Streak" />
-    </a>
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminone&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <h3>⚡ Recent Activity</h3>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaminone&bg_color=1a1b27&color=79ff97&line=79ff97&point=f77e6c&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
+  <h3>⚡ GitHub Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaminone&bg_color=1a1b27&color=79ff97&line=79ff97&point=f77e6c&area=true&hide_border=true" />
 </div>
 
 ---
 
+<!-- GitHub Trophies -->
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alaminone&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=alaminone&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7" />
 </div>
