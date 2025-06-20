@@ -1,12 +1,20 @@
 <!-- 
-  This is the final, foolproof version. 
-  The header banner is now generated automatically, so no uploads are needed.
-  The contribution snake will appear after you enable GitHub Actions.
+  FINAL VERSION: This design uses a pure Markdown & Shields.io banner.
+  It requires no image uploads and is 100% reliable.
 -->
 
-<!-- 1. Auto-Generated Header Banner -->
-<div align="center">
-  <img src="https://github-profile-header-generator.vercel.app/api/Header?title=Md%20Ibna%20Alamin%20Sijan&subtitle=Full-Stack%20Developer&icon=java,spring,angular,react,postgresql,docker&pattern=Plus&theme=dark" alt="Md Ibna Alamin Sijan Banner"/>
+<!-- 1. Markdown-based Banner (Guaranteed to work) -->
+<div align="center" style="background-color: #1A1B27; padding: 20px; border-radius: 10px;">
+  <h1 style="color: #FFFFFF; margin-bottom: 5px;">Md Ibna Alamin Sijan</h1>
+  <h3 style="color: #79ff97; margin-top: 5px;">Full-Stack Developer</h3>
+  <p style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </p>
 </div>
 
 <!-- 2. Introduction & Social Links -->
@@ -34,7 +42,7 @@
 <!-- 3. My Skill Set -->
 <h2 align="center">🛠 My Tech Arsenal 🛠</h2>
 <div align="center">
-  <table >
+  <table>
     <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" /><br>Java
