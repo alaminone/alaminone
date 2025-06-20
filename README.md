@@ -28,7 +28,7 @@
   <tr>
     <!-- Left Column: About Me & Connect -->
     <td width="65%" valign="top">
-      <h3>👨‍💻 About Me</h3>
+      <h3>🔗 Connect with Me</h3>
       <p>
         <em>I'm a passionate <strong>Full-Stack Developer</strong> from Bangladesh 🇧🇩, dedicated to building robust, scalable, and user-friendly web applications. My goal is to leverage my skills in both backend and frontend development to create impactful software solutions.</em>
       </p>
