@@ -1,20 +1,13 @@
 <!-- 
-  FINAL VERSION: Top Languages card URL is now ready for excluding a specific repository
-  to get a more accurate language breakdown.
+  FINAL VERSION with an Animated Banner.
+  This banner is generated using a reliable SVG service, requires no uploads, and is 100% reliable.
 -->
 
-<!-- 1. Markdown-based Banner (Guaranteed to work) -->
-<div align="center" style="background-color: #1A1B27; padding: 20px; border-radius: 10px;">
-  <h1 style="color: #FFFFFF; margin-bottom: 5px;">Md Ibna Alamin Sijan</h1>
-  <h3 style="color: #79ff97; margin-top: 5px;">Full-Stack Developer</h3>
-  <p style="margin-top: 20px;">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </p>
+<!-- 1. Animated Typing Banner -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=600&pause=1000&color=79FF97&background=1A1B2700¢er=true&vCenter=true&width=500&height=100&lines=Md+Ibna+Alamin+Sijan;Full-Stack+Developer;Java+%7C+Spring+Boot;Angular+%7C+React+%7C+TypeScript;PostgreSQL+%7C+MongoDB" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- 2. Introduction & Social Links -->
@@ -90,29 +83,6 @@
       </td>
     </tr>
   </table>
-  ---
-
-<!-- New Section: Professional Expertise -->
-<h2 align="center">💼 Professional Expertise & Focus 💼</h2>
-<div align="center">
-  <blockquote>
-    <p><em>My professional work primarily involves building enterprise-grade applications. While these repositories are private, my key expertise lies in the following areas:</em></p>
-  </blockquote>
-  <ul>
-    <li>
-      <strong>Backend Development:</strong> Architecting and developing scalable REST APIs and microservices using <strong>Java</strong>, <strong>Spring Boot</strong>, and <strong>Spring Security</strong>.
-    </li>
-    <li>
-      <strong>Frontend Development:</strong> Building dynamic, responsive, and component-based user interfaces with <strong>Angular</strong>, <strong>TypeScript</strong>, and <strong>React</strong>.
-    </li>
-    <li>
-      <strong>Database Management:</strong> Designing and managing robust database systems with <strong>PostgreSQL</strong> and <strong>MongoDB</strong>.
-    </li>
-    <li>
-      <strong>Full-Stack Integration:</strong> Ensuring seamless communication and integration between backend and frontend systems to deliver a complete product.
-    </li>
-  </ul>
-</div>
 </div>
 
 ---
@@ -121,6 +91,7 @@
 <h2 align="center">📊 My GitHub Statistics 📊</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alaminone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminone&layout=compact&theme=tokyonight&hide_border=true&hide=html,scss,css" alt="Top Languages" />
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminone&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
