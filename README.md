@@ -1,14 +1,19 @@
 <!-- 
-  FINAL VERSION with an Animated Banner.
-  This banner is generated using a reliable SVG service, requires no uploads, and is 100% reliable.
+  FINAL VERSION with an ADAPTIVE Animated Banner.
+  This banner automatically changes text color based on the user's GitHub theme (Light/Dark).
 -->
 
-<!-- 1. Animated Typing Banner -->
+<!-- 1. Adaptive Animated Typing Banner -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=600&pause=1000&color=79FF97&background=1A1B2700¢er=true&vCenter=true&width=500&height=100&lines=Md+Ibna+Alamin+Sijan;Full-Stack+Developer;Java+%7C+Spring+Boot;Angular+%7C+React+%7C+TypeScript;PostgreSQL+%7C+MongoDB" alt="Typing SVG" />
-  </a>
+  <picture>
+    <!-- Dark Mode Image -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=600&pause=1000&color=79FF97&background=1A1B2700¢er=true&vCenter=true&width=500&height=100&lines=Md+Ibna+Alamin+Sijan;Full-Stack+Developer;Java+%7C+Spring+Boot;Angular+%7C+React+%7C+TypeScript;PostgreSQL+%7C+MongoDB">
+    <!-- Light Mode Image -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=600&pause=1000&color=004AAD&background=FFFFFF00¢er=true&vCenter=true&width=500&height=100&lines=Md+Ibna+Alamin+Sijan;Full-Stack+Developer;Java+%7C+Spring+Boot;Angular+%7C+React+%7C+TypeScript;PostgreSQL+%7C+MongoDB">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=600&pause=1000&color=004AAD&background=FFFFFF00¢er=true&vCenter=true&width=500&height=100&lines=Md+Ibna+Alamin+Sijan;Full-Stack+Developer;Java+%7C+Spring+Boot;Angular+%7C+React+%7C+TypeScript;PostgreSQL+%7C+MongoDB">
+  </picture>
 </div>
+
 
 <!-- 2. Introduction & Social Links -->
 <div align="center" style="margin-top: 15px;">
