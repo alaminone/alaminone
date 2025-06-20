@@ -3,9 +3,14 @@
 
 ---
 
-🌱 I’m currently learning: **Advanced Java & JavaScript**  
-📫 How to reach me: **ibnaalamin00@gmail.com**
-📫 How to reach me: **alaminone00@gmail.com**
+### 👨‍💼 About Me
+
+- 🎯 Passionate about building scalable full-stack applications
+- 🧠 Currently learning: **Advanced Java**, **JavaScript**, and **DevOps**
+- 🔭 Exploring: **Clean Architecture**, **Microservices**, and **CI/CD pipelines**
+- 💬 Ask me about: Java, Angular, Spring Boot, REST API, PostgreSQL
+- 📫 Email me at: **ibnaalamin00@gmail.com** | **alaminone00@gmail.com**
+- 🧳 Open to freelance or remote collaboration!
 
 ---
 
@@ -24,7 +29,17 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🧠 Languages I Use Regularly at Work
+
+- 🟧 **Java** (Spring Boot, REST API)
+- 🔷 **TypeScript** (Angular, React)
+- 🟨 **JavaScript**
+- 🟣 **PostgreSQL** / **MongoDB**
+- 🌐 **HTML** / **SCSS** / **CSS**
+
+---
+
+### 🛠️ Languages & Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
@@ -50,16 +65,35 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminone&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-### 👨‍💻 Languages I Use Regularly at Work:
-<p align="left">
-- 🟧 Java (Spring Boot, REST API)
-- 🔷 TypeScript (Angular, React)
-- 🟨 JavaScript
-- 🟣 PostgreSQL / MongoDB
-- 🌐 HTML / SCSS / CSS
+### 🧰 Workflows & Expertise
 
+- ✅ Agile Development
+- ✅ RESTful API Design
+- ✅ Microservices Architecture
+- ✅ Component-based Frontend Development
+- ✅ CI/CD with GitHub Actions
+- ✅ Dockerized Applications
+- ✅ Postman API Testing
+- ✅ Git & GitHub Collaboration
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alaminone&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminone&show_icons=true&locale=en&layout=compact&hide=html,scss,css" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=alaminone&theme=radical&margin-w=10&row=1&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alaminone&bg_color=1e1e1e&color=00bfff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
