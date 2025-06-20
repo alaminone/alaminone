@@ -56,9 +56,10 @@
 
 <p align="left">
 ### 👨‍💻 Languages I Use Regularly at Work:
-- 🟧 **Java** (Spring Boot, REST API)
-- 🔷 **TypeScript** (Angular, React)
-- 🟨 **JavaScript**
-- 🟣 **PostgreSQL** / **MongoDB**
-- 🌐 **HTML** / **SCSS** / **CSS**
+- 🟧 Java (Spring Boot, REST API)
+- 🔷 TypeScript (Angular, React)
+- 🟨 JavaScript
+- 🟣 PostgreSQL / MongoDB
+- 🌐 HTML / SCSS / CSS
+
 </p>
