@@ -1,12 +1,12 @@
 <!-- 
-  FINAL & BEST VERSION
-  This profile uses a custom-made, professionally animated GIF banner hosted on a reliable server.
-  It is designed to be modern, professional, and 100% reliable.
+  FINAL & BEST VERSION 2.0
+  This profile features a custom-made, glitch-effect animated GIF banner.
+  It is designed to give a modern, techy, and professional feel.
 -->
 
-<!-- 1. Custom Animated GIF Banner -->
+<!-- 1. Custom Glitch-Effect Animated GIF Banner -->
 <div align="center">
-  <img src="https://i.ibb.co/bF9N41T/Sijan-Professional-Banner.gif" alt="Md Ibna Alamin Sijan - Full-Stack Developer"/>
+  <img src="https://i.ibb.co/L5hVpnq/Sijan-Glitch-Banner.gif" alt="Md Ibna Alamin Sijan - Full-Stack Developer"/>
 </div>
 
 <!-- 2. Introduction & Social Links -->
