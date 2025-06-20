@@ -54,9 +54,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminone&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-<p align="left">
 ### 👨‍💻 Languages I Use Regularly at Work:
+<p align="left">
 - 🟧 Java (Spring Boot, REST API)
 - 🔷 TypeScript (Angular, React)
 - 🟨 JavaScript
