@@ -28,7 +28,7 @@
         <li>🧳 Open to freelance, remote, and full-time collaboration!</li>
       </ul>
       
-      <h3>🔗 Connect with Me</h3>
+      
       <p>
         <a href="https://linkedin.com/in/alamin-sijun-9783a52a4" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
