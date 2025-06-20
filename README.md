@@ -95,8 +95,22 @@
 
 ---
 
-### 📈 GitHub Activity Graph
+<div align="center" style="overflow-x:auto;">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaminone&theme=github-compact&hide_border=true&area=true" alt="Alamin's GitHub Activity Graph" />
-</p>
+| Month     | Repository                        | Commits |
+|-----------|---------------------------------|---------|
+| June 2025 | Biman-FPBS/fpbs-ui               | 61      |
+| June 2025 | Biman-FPBS/fpbs-server-budget   | 20      |
+| June 2025 | alaminone/alaminone              | 13      |
+| May 2025  | Biman-FPBS/fpbs-ui               | 149     |
+| May 2025  | Biman-FPBS/fpbs-server-budget   | 109     |
+| May 2025  | Biman-FPBS/fpbs-server-super-admin | 5    |
+| April 2025| Biman-FPBS/fpbs-ui               | 111     |
+| April 2025| Biman-FPBS/fpbs-server-budget   | 40      |
+| April 2025| Biman-FPBS/fpbs-server-super-admin | 1    |
+| March 2025| Biman-FPBS/fpbs-ui               | 39      |
+| March 2025| Biman-FPBS/fpbs-server-budget   | 14      |
+| March 2025| alaminone/alaminone              | 1       |
+
+</div>
+
