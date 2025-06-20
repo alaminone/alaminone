@@ -4,6 +4,7 @@
 ---
 
 🌱 I’m currently learning: **Advanced Java & JavaScript**  
+📫 How to reach me: **ibnaalamin00@gmail.com**
 📫 How to reach me: **alaminone00@gmail.com**
 
 ---
