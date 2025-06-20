@@ -55,5 +55,10 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaminone&show_icons=true&locale=en" alt="GitHub Stats" />
+### 👨‍💻 Languages I Use Regularly at Work:
+- 🟧 **Java** (Spring Boot, REST API)
+- 🔷 **TypeScript** (Angular, React)
+- 🟨 **JavaScript**
+- 🟣 **PostgreSQL** / **MongoDB**
+- 🌐 **HTML** / **SCSS** / **CSS**
 </p>
