@@ -90,6 +90,29 @@
       </td>
     </tr>
   </table>
+  ---
+
+<!-- New Section: Professional Expertise -->
+<h2 align="center">💼 Professional Expertise & Focus 💼</h2>
+<div align="center">
+  <blockquote>
+    <p><em>My professional work primarily involves building enterprise-grade applications. While these repositories are private, my key expertise lies in the following areas:</em></p>
+  </blockquote>
+  <ul>
+    <li>
+      <strong>Backend Development:</strong> Architecting and developing scalable REST APIs and microservices using <strong>Java</strong>, <strong>Spring Boot</strong>, and <strong>Spring Security</strong>.
+    </li>
+    <li>
+      <strong>Frontend Development:</strong> Building dynamic, responsive, and component-based user interfaces with <strong>Angular</strong>, <strong>TypeScript</strong>, and <strong>React</strong>.
+    </li>
+    <li>
+      <strong>Database Management:</strong> Designing and managing robust database systems with <strong>PostgreSQL</strong> and <strong>MongoDB</strong>.
+    </li>
+    <li>
+      <strong>Full-Stack Integration:</strong> Ensuring seamless communication and integration between backend and frontend systems to deliver a complete product.
+    </li>
+  </ul>
+</div>
 </div>
 
 ---
@@ -98,7 +121,6 @@
 <h2 align="center">📊 My GitHub Statistics 📊</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alaminone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminone&layout=compact&theme=tokyonight&hide_border=true&hide=html,scss,css&exclude_repo=YOUR_REPO_NAME" alt="Top Languages" />
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminone&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
